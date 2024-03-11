@@ -2,7 +2,7 @@
 
 <a href="https://www.packtpub.com/product/cybersecurity-architects-handbook/9781803235844?utm_source=github&utm_medium=repository&utm_campaign=9781803235844"><img src="https://content.packt.com/B18664/cover_image_small.jpg" alt="Cybersecurity Architect’s Handbook" height="256px" align="right"></a>
 
-This is the code repository for [](https://www.packtpub.com/product/cybersecurity-architects-handbook/9781803235844?utm_source=github&utm_medium=repository&utm_campaign=9781803235844), published by Packt.
+This is the code repository for [Cybersecurity Architect’s Handbook](https://www.packtpub.com/product/cybersecurity-architects-handbook/9781803235844?utm_source=github&utm_medium=repository&utm_campaign=9781803235844), published by Packt.
 
 **An end-to-end guide to implementing and maintaining robust security architecture**
 
